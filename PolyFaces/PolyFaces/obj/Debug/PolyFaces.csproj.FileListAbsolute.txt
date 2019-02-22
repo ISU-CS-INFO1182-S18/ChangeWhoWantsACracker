@@ -1,0 +1,15 @@
+C:\CS 1182\Repos\2019spring\ChangeWhoWantsACracker\PolyFaces\PolyFaces\obj\Debug\PolyFaces.csprojAssemblyReference.cache
+C:\CS 1182\Repos\2019spring\ChangeWhoWantsACracker\PolyFaces\PolyFaces\obj\Debug\MainWindow.g.cs
+C:\CS 1182\Repos\2019spring\ChangeWhoWantsACracker\PolyFaces\PolyFaces\obj\Debug\App.g.cs
+C:\CS 1182\Repos\2019spring\ChangeWhoWantsACracker\PolyFaces\PolyFaces\obj\Debug\PolyFaces_MarkupCompile.cache
+C:\CS 1182\Repos\2019spring\ChangeWhoWantsACracker\PolyFaces\PolyFaces\obj\Debug\PolyFaces_MarkupCompile.lref
+C:\CS 1182\Repos\2019spring\ChangeWhoWantsACracker\PolyFaces\PolyFaces\bin\Debug\PolyFaces.exe.config
+C:\CS 1182\Repos\2019spring\ChangeWhoWantsACracker\PolyFaces\PolyFaces\bin\Debug\PolyFaces.exe
+C:\CS 1182\Repos\2019spring\ChangeWhoWantsACracker\PolyFaces\PolyFaces\bin\Debug\PolyFaces.pdb
+C:\CS 1182\Repos\2019spring\ChangeWhoWantsACracker\PolyFaces\PolyFaces\obj\Debug\MainWindow.baml
+C:\CS 1182\Repos\2019spring\ChangeWhoWantsACracker\PolyFaces\PolyFaces\obj\Debug\PolyFaces.g.resources
+C:\CS 1182\Repos\2019spring\ChangeWhoWantsACracker\PolyFaces\PolyFaces\obj\Debug\PolyFaces.Properties.Resources.resources
+C:\CS 1182\Repos\2019spring\ChangeWhoWantsACracker\PolyFaces\PolyFaces\obj\Debug\PolyFaces.csproj.GenerateResource.cache
+C:\CS 1182\Repos\2019spring\ChangeWhoWantsACracker\PolyFaces\PolyFaces\obj\Debug\PolyFaces.csproj.CoreCompileInputs.cache
+C:\CS 1182\Repos\2019spring\ChangeWhoWantsACracker\PolyFaces\PolyFaces\obj\Debug\PolyFaces.exe
+C:\CS 1182\Repos\2019spring\ChangeWhoWantsACracker\PolyFaces\PolyFaces\obj\Debug\PolyFaces.pdb
